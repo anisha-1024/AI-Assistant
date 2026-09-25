@@ -29,4 +29,3 @@ This project was built as a part of Third Year Python Project.
     - `requests` - for weather API
     - `tkinter` - for GUI
 
-### 📁 Project Structure
