@@ -2,8 +2,6 @@
 
 Anisha's AI Voice Assistant is a Python-based desktop voice assistant that listens to your voice commands, performs actions, and speaks back to you. It can open websites, tell time, give weather updates, and search anything on Google if it doesn't understand the command.
 
-This project was built as a part of Third Year Python Project.
-
 ### ✨ Demo
 > You say: "Open YouTube" -> It opens YouTube  
 > You say: "What is the time" -> It speaks the current time  
